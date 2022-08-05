@@ -7,7 +7,7 @@ By Ga-yana
 
 ## A static homepage for Digitak Marketing agency.   
 
-### 
+### Click [here](https://digimarketingagency.netlify.app/) to see live.
 
 ![Homepage](./assets/Screenshot%202022-08-05%20at%204.01.11%20PM.png)
 # 
